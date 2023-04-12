@@ -22,8 +22,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Website](https://www.frontendmentor.io/solutions/responsive-qr-code-component-with-html-and-css-FkbW3chcZy)
-- Live Site URL: [Website](https://lost50u1.github.io/qrcodecomponent/)
+- Solution URL: [Website](https://www.frontendmentor.io/solutions/single-price-component-with-css-grid-ZKyPoIYiAa)
+- Live Site URL: [Website](https://lost50u1.github.io/single-price-grid-component-master/)
 
 ## My process
 
@@ -32,21 +32,14 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
+- CSS grid
+- CSS flexbox
 
 ### What I learned
 
 I learned more about websites layout.
 
-I used this media query to make it responsive for desktop screen:
-
-```css
-/* for desktop size 1440px */
-@media only screen and (min-width: 1440px) {
-  main {
-    margin-top: 20vh;
-  }
-}
-```
+I used a combination of flexbox and cssgrid and more layout of items and i learned more about centering items vertically
 
 ### Useful resources
 
